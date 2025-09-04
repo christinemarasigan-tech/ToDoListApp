@@ -1,1 +1,1 @@
-# advancedGitMastery
+Objective: Enhance a Java To-Do List app using Object-Oriented Programming (OOP) principles whilepracticing advanced Git commands such as branch management, merging, resolving merge conflicts, and git stash. You will implement your tasks using Git and GitLens in VS Code.
