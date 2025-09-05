@@ -27,9 +27,12 @@ public class Task {
     public String getPriority() {
         return priority; // Getter for priority
         }
+
     public void markAsCompleted() {
         this.isCompleted = true;
-        }
+        System.out.println("Task ID " + id + " marked as completed."); // Log completion
+    }
+    
     @Override
     public String toString() {
         return "Task ID: " + id +
